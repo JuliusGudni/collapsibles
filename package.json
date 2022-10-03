@@ -52,9 +52,9 @@
     "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
   },
   "dependencies": {
-    "nanoid": "^4.0.0",
     "react-animate-height": "^3.0.4",
-    "react-transition-group": "^4.4.2"
+    "react-transition-group": "^4.4.2",
+    "short-unique-id": "^4.4.4"
   },
   "devDependencies": {
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.5",
